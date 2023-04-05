@@ -1,1 +1,1 @@
-My first readme doing hard things
+My first readme to do hard things
